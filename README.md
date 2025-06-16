@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="300" src="https://i.redd.it/xq2c4dzf97na1.gif"  />
+<div align="center">
+  <img src="https://i.redd.it/xq2c4dzf97na1.gif" height="300" alt="stats graph"  />
+</div>
 
 ###
 
