@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Udit Singh Rawat and I'm a Data Scientist, from India</h2>
+<h2 align="center">Hi 👋! My name is Udit Singh Rawat and I'm a Data Scientist, from India</h2>
 
 ###
 
 <div align="center">
-  <img src="gohan.gif" height="300" width= "600" alt="stats graph"  />
+  <img src="brain.gif" height="300" width= "600" alt="stats graph"  />
 </div>
 
 ###
