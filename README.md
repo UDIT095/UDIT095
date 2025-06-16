@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="brain.gif" height="300" width= "600" alt="stats graph"  />
+  <img src="1697089776871.gif" height="300" width= "600" alt="stats graph"  />
 </div>
 
 ###
