@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.redd.it/xq2c4dzf97na1.gif" height="300" alt="stats graph"  />
+  <img src="https://i.pinimg.com/originals/99/48/12/994812cca65faf29a3f528f59b35ddda.gif" height="300" alt="stats graph"  />
 </div>
 
 ###
