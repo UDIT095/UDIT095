@@ -3,7 +3,10 @@
 ###
 
 <div align="center">
-  <img src="1697089776871.gif" height="300" width= "600" alt="stats graph"  />
+  <a href="https://powertsone666.io">
+    <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="MasterHead" />
+  </a>
+
 </div>
 
 ###
