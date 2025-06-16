@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Udit Singh Rawat and I'm a Data Scientist, from ....</h2>
+<h2 align="left">Hi 👋! My name is Udit Singh Rawat and I'm a Data Scientist, from India</h2>
 
 ###
 
